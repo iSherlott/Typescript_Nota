@@ -5,7 +5,7 @@ const y = 10;
 
 let z = 100 as const;
 
-const person = {
+export const person = {
   name: "Sherlott" as const,
   lastName: "Da Silva",
 };

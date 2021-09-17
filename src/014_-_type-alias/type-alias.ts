@@ -1,6 +1,6 @@
 type Age = number;
 
-type Person = {
+export type Person = {
   name: string;
   age: Age;
   wage: number;
