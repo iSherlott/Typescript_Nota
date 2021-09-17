@@ -4,4 +4,4 @@
 
 <p>Abaixo tem o demostrativo de como fica a construção dessa classe no UML para melhor intendimento.</p>
 
-<img src="">
+<img src="https://github.com/iSherlott/Typescript_Nota/blob/main/src/023_-_heranca/heranca.PNG?raw=true">
